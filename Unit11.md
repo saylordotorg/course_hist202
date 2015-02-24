@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST202: History of Europe, 1800 to the Present"
+course_description: "An examination of the political, economic, social, religious, and intellectual history of Europe, from the Middle Ages to the 18th century revolutions, with particular emphasis on primary-source interpretation."
+next: ../../../
+previous: ../Unit10
+---
 **Unit 11: Final Exam** <span id="11"></span> 
 -   **Final Exam: The Saylor Foundation's "HIST202 Final Exam"**
     Link: The Saylor Foundation's "[HIST202 Final

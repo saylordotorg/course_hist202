@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST202: History of Europe, 1800 to the Present"
+course_description: "An examination of the political, economic, social, religious, and intellectual history of Europe, from the Middle Ages to the 18th century revolutions, with particular emphasis on primary-source interpretation."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Great War** <span id="6"></span> 
 *In the late nineteenth century, a new alliance system developed in
 Europe.  In the 1890s, the Triple Alliance was formed between Austria,

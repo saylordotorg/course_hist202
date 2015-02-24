@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST202: History of Europe, 1800 to the Present"
+course_description: "An examination of the political, economic, social, religious, and intellectual history of Europe, from the Middle Ages to the 18th century revolutions, with particular emphasis on primary-source interpretation."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Age of Anxiety** <span id="7"></span> 
 *The 1919 Treaty of Versailles was intended to repair a war-weary
 Europe, but it actually became the leading cause of conflict in the

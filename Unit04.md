@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST202: History of Europe, 1800 to the Present"
+course_description: "An examination of the political, economic, social, religious, and intellectual history of Europe, from the Middle Ages to the 18th century revolutions, with particular emphasis on primary-source interpretation."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Age of Nationalism, 1850-1914** <span id="4"></span> 
 *Despite the widespread violence and chaos unleashed by the Revolutions
 of 1848, European nations implemented few reforms.  As a result, the

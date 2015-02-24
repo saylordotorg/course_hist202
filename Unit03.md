@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST202: History of Europe, 1800 to the Present"
+course_description: "An examination of the political, economic, social, religious, and intellectual history of Europe, from the Middle Ages to the 18th century revolutions, with particular emphasis on primary-source interpretation."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: War, Ideologies, and Upheavals, 1800-1856** <span
 id="3"></span> 
 *The nineteenth century saw drastic political changes that had been
