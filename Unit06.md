@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "HIST202: History of Europe, 1800 to the Present"
-course_description: "An examination of the political, economic, social, religious, and intellectual history of Europe, from the Middle Ages to the 18th century revolutions, with particular emphasis on primary-source interpretation."
+course_description: "An introductory survey of the political, economic, social, religious, and intellectual history of Europe, from the 1800s to the present, with particular emphasis on primary-source interpretation."
 next: ../Unit07
 previous: ../Unit05
 ---
