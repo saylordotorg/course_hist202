@@ -141,3 +141,4 @@ following materials:
 - [Unit 9](https://legacy.saylor.org/hist202/Unit09/)
 - [Unit 10](https://legacy.saylor.org/hist202/Unit10/)
 - [Unit 11](https://legacy.saylor.org/hist202/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST202/HIST202-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST202/HIST202-FinalExam-Answers.html)
